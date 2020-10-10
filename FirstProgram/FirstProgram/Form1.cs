@@ -19,7 +19,7 @@ namespace FirstProgram
 
         private void buttonPrintMessage_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("테스트 프로그램입니다.");
+            MessageBox.Show("BBBBB");
         }
     }
 }
